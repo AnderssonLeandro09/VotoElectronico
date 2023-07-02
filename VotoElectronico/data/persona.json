@@ -1,0 +1,31 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "modelo.Persona",
+                "id": 1105918419,
+                "cedula": 1105918419,
+                "edad": 18,
+                "esDiscapacitado": false,
+                "genero": "M",
+                "nombre": "Emilio",
+                "votoRealizado": false,
+                "eleccionVoto": "Voto A"
+            },
+            "sig": {
+                "info": {
+                    "@class": "modelo.Persona",
+                    "id": 1105918418,
+                    "cedula": 1105918418,
+                    "edad": 18,
+                    "esDiscapacitado": false,
+                    "genero": "M",
+                    "nombre": "Andres",
+                    "votoRealizado": false,
+                    "eleccionVoto": ""
+                }
+            }
+        },
+        "size": 2
+    }
+}
