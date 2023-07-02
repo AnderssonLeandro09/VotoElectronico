@@ -1,0 +1,15 @@
+{
+    "controlador.ed.listas.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "modelo.Usuario",
+                "esDiscapacitado": false,
+                "id": 1,
+                "contra": "cristian",
+                "cedula": 1150182051,
+                "votoRealizado": false
+            }
+        },
+        "size": 1
+    }
+}
