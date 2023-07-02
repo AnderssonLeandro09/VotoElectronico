@@ -9,7 +9,7 @@ package votoelectronico;
  * @author Andersson
  */
 public class VotoElectronico {
-
+    // hola
     /**
      * @param args the command line arguments
      */
