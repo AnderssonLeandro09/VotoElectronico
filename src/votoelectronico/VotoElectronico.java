@@ -14,7 +14,9 @@ public class VotoElectronico {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Muchachos");
+        System.out.println("Hola Muchachos ");
+        //Prueba
+        System.out.println("Hola Muchachos ");
     }
     
 }
