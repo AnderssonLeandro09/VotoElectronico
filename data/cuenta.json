@@ -1,0 +1,14 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "modelo.Cuenta",
+                "id": 1,
+                "Usuario": 1105918419,
+                "Contra": "andres",
+                "estado": true
+            }
+        },
+        "size": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "modelo.PartidoPolitico",
+                "nombre": "PartidoGenericoXd"
+            }
+        },
+        "size": 1
+    }
+}
